@@ -1,0 +1,3 @@
+./quizzie-client/node_modules
+./quizzie-server/node_modules
+./quizzie-server/.env
